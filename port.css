@@ -11,6 +11,9 @@ a:visited
 {
     color: white;
 }
+a{
+    color: white;
+}
 html{
     scroll-behavior: smooth;
 }
